@@ -1,2 +1,2 @@
 # zabbix-docker-scripts
-Scripts for my Zabbix in Docker tutorial on Medium
+Scripts for a Zabbix in Docker tutorial on Medium
